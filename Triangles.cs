@@ -8,7 +8,7 @@ using System;
 
 namespace ConsoleApp2
 {
-    class Program
+    class Triangles
     {
 
         static void Main(string[] args)
