@@ -13,17 +13,6 @@ namespace ConsoleApp2
 
         static void Main(string[] args)
         {
-			int x = 0;
-
-			int xtwo = 9;
-
-			int xthree = -1;
-			int space = 10;
-
-			int spacetwo = 0;
-			int xfour = 10;
-
-
 			for (int i = 0; i < 10; i++)      //first triangle
 			{
 				Console.Write("#");
